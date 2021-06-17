@@ -1,0 +1,1462 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 15731 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/andre/Documents/GitHub/Prueba-Tecnica-Aimoca/Prueba-tecnica-aimoca
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50573
+Successfully changed project path to: C:/Users/andre/Documents/GitHub/Prueba-Tecnica-Aimoca/Prueba-tecnica-aimoca
+C:/Users/andre/Documents/GitHub/Prueba-Tecnica-Aimoca/Prueba-tecnica-aimoca
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/andre/Documents/GitHub/Prueba-Tecnica-Aimoca/Prueba-tecnica-aimoca/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001605 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 19.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.405 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.681 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.0 MB.
+System memory in use after: 60.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 2.394500 ms (FindLiveObjects: 0.437100 ms CreateObjectMapping: 0.093700 ms MarkObjects: 1.773100 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '583c04e90ab816d3a21d35554660159e') in 0.162231 seconds
+  Import took 0.165320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006561 seconds.
+  path: Assets/TextMesh Pro/Documentation
+  artifactKey: Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation using Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd791945d779b623b03f51be6fbbe11') in 0.001380 seconds
+  Import took 0.003342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003110 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047ccc5059eac9a670f8534dc5376067') in 0.003218 seconds
+  Import took 0.005770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003558 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd2806286ded3a3b3b1fcda547fe17e') in 0.001689 seconds
+  Import took 0.003511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011281 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199dab38d54ed20ff75b659066b01e50') in 0.002938 seconds
+  Import took 0.005019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003871 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb2d8cee0095f462ac5b8e197ff3456') in 0.004511 seconds
+  Import took 0.007138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001873 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets
+  artifactKey: Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets using Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f8561526d98f289d73c5f62d6d0e6e') in 0.001773 seconds
+  Import took 0.003692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011993 seconds.
+  path: Assets/TextMesh Pro/Shaders
+  artifactKey: Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders using Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05af25514578a0c852ff5f3a4d76f3d') in 0.001528 seconds
+  Import took 0.004156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003820 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf2eb01584b0d1d14d0c4c671b14ab8') in 0.009595 seconds
+  Import took 0.012245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003815 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263d125abb9184fed51cfb36dcf4f206') in 0.001836 seconds
+  Import took 0.004570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002859 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '095bcb59e4d7a886310f161c428c02eb') in 0.002485 seconds
+  Import took 0.004752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003962 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9eaf15227c90099e6f0805ce4dfb82c') in 0.001668 seconds
+  Import took 0.004200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002592 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f2ee2a85a9755c0a962460393d75ad') in 0.002264 seconds
+  Import took 0.004008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003192 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  artifactKey: Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc using Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d25b9b7844ab3a7a51dcd48f46784f0') in 0.002162 seconds
+  Import took 0.004953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002972 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4029b4940d890dd15530f5ff7470ba') in 0.002129 seconds
+  Import took 0.004775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003718 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e0e42ced53b2b931ad5bc6d6e3e4f6') in 0.033511 seconds
+  Import took 0.035418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006959 seconds.
+  path: Assets/_Scripts/MainCameraScrpt.cs
+  artifactKey: Guid(09cddc81e7c3da34b8d9be4daf70c739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/MainCameraScrpt.cs using Guid(09cddc81e7c3da34b8d9be4daf70c739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41351941348de0c41d8fdb053a794eec') in 0.003552 seconds
+  Import took 0.006474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010355 seconds.
+  path: Assets/Animations/CH_Primitivo.controller
+  artifactKey: Guid(02eed53ac7ec28d4aa6d509ff378495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/CH_Primitivo.controller using Guid(02eed53ac7ec28d4aa6d509ff378495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652472f0ac7d0e46af506d3e72b706fa') in 0.004351 seconds
+  Import took 0.006322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004902 seconds.
+  path: Assets/Fonts/Limelight-Regular SDF.asset
+  artifactKey: Guid(72fcba8b709b5c34dac04dfbad9dbd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Limelight-Regular SDF.asset using Guid(72fcba8b709b5c34dac04dfbad9dbd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be78a0c6cf372ce63b1150bbc93c6fb') in 0.022670 seconds
+  Import took 0.024815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006356 seconds.
+  path: Assets/Animations/idle.anim
+  artifactKey: Guid(f30d8e3d054118345a3edf04f1428fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/idle.anim using Guid(f30d8e3d054118345a3edf04f1428fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5dae558652d1a0b78ccd498e902a3f') in 0.003092 seconds
+  Import took 0.005147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003377 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+  artifactKey: Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader using Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cc1f35f0884e4140b4a3fea58a5b5b') in 0.002195 seconds
+  Import took 0.004556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003678 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '410e247ae7c6c841bb98061b2d3410ec') in 0.068081 seconds
+  Import took 0.070870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007162 seconds.
+  path: Assets/Animations/coger.anim
+  artifactKey: Guid(6407861e01b2e8d4898b318edab4d8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/coger.anim using Guid(6407861e01b2e8d4898b318edab4d8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab73952f8013c9ad909a208f725daec3') in 0.002187 seconds
+  Import took 0.005047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006005 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets
+  artifactKey: Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets using Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a57fe4efda771fd0293c304a186c6c') in 0.001448 seconds
+  Import took 0.003209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017947 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbf20059894a233946d211255f5e2ea') in 0.002129 seconds
+  Import took 0.004591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002900 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5570a0830ed7f14586e163404e20600d') in 0.001821 seconds
+  Import took 0.004646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003848 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9a4d89627554c45e151b1b1e1ecc4f') in 0.002087 seconds
+  Import took 0.004559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003413 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0050254a41424603d63ee1422c5403f') in 0.001379 seconds
+  Import took 0.003530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003608 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b7f691020f17797d7fc265272245d8') in 0.001943 seconds
+  Import took 0.004830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004039 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a22925f79471ae35fbae712df200ac3') in 0.006506 seconds
+  Import took 0.008519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003166 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c17f5a3822cb06b4203d323f0ec1e79') in 0.013354 seconds
+  Import took 0.015978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006973 seconds.
+  path: Assets/_Scripts/GameManager.cs
+  artifactKey: Guid(cd7d0f07d48c72e4eb8181fa0699fe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/GameManager.cs using Guid(cd7d0f07d48c72e4eb8181fa0699fe8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfb2e554d2660bc14e09985e6beedd5') in 0.001524 seconds
+  Import took 0.004250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002221 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials
+  artifactKey: Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials using Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d06abd817619143173295a2944bf7e') in 0.001995 seconds
+  Import took 0.003954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016459 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe1e02b069bed39c508f869cad12467') in 0.001466 seconds
+  Import took 0.003988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003740 seconds.
+  path: Assets/Scenes/Main Scene.unity
+  artifactKey: Guid(df1395b89774486458a052b83112ea77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main Scene.unity using Guid(df1395b89774486458a052b83112ea77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd053e0ae94e2978f6de3fa924943c099') in 0.002229 seconds
+  Import took 0.004739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010812 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f5f025c17ee271dedccf2da3eaf172') in 0.025895 seconds
+  Import took 0.028634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002345 seconds.
+  path: Assets/TextMesh Pro/Sprites
+  artifactKey: Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites using Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ce0a587ddd111cda5906a213725b05') in 0.001395 seconds
+  Import took 0.002947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014283 seconds.
+  path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+  artifactKey: Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf using Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f510ba757e17866b330216bb0c74ddd5') in 0.003618 seconds
+  Import took 0.006418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003509 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4185f84430e6eaaaf1cb53207cc96a92') in 0.001802 seconds
+  Import took 0.004381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003375 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30399fee49d042a535ba198167788223') in 0.002312 seconds
+  Import took 0.004925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002588 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea5a48e351e8cfaa28418d3d2fa30cb') in 0.001805 seconds
+  Import took 0.004692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003716 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  artifactKey: Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader using Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9e56c082c8d1b30e6c2a04d159b526') in 0.001813 seconds
+  Import took 0.003973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003111 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d495f9a0de837806f2464d72823f2b1') in 0.001612 seconds
+  Import took 0.003644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003062 seconds.
+  path: Assets/TextMesh Pro/Resources
+  artifactKey: Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources using Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e54b87fb40cbed7166154c3f34e1b4') in 0.001621 seconds
+  Import took 0.004358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004254 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f5836c2c76a165d4711b8257a7a24ff') in 0.032323 seconds
+  Import took 0.034241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006515 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e346bf392f02dc0ee12f3872ac9505b') in 0.002058 seconds
+  Import took 0.004569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003168 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5088234ba66d5422dc58002443daf1da') in 0.001862 seconds
+  Import took 0.004803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003366 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c58299ab0c006a2bbe42106ac90654') in 0.012920 seconds
+  Import took 0.015009 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.5 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 3.355100 ms (FindLiveObjects: 0.268700 ms CreateObjectMapping: 0.071600 ms MarkObjects: 2.887200 ms  DeleteObjects: 0.125000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.814900 ms (FindLiveObjects: 0.384600 ms CreateObjectMapping: 0.078500 ms MarkObjects: 3.219900 ms  DeleteObjects: 0.128100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1165 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 3.756400 ms (FindLiveObjects: 0.349000 ms CreateObjectMapping: 0.095300 ms MarkObjects: 3.131300 ms  DeleteObjects: 0.178000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4213.864612 seconds.
+  path: Assets/BOXOPHOBIC
+  artifactKey: Guid(a45f2999d7404e840b43160f62f775a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC using Guid(a45f2999d7404e840b43160f62f775a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849b82e887ad776ad44f7436bedf3dae') in 0.008152 seconds
+  Import took 0.021023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.284969 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended
+  artifactKey: Guid(06fe4632bd09e57468b68c174e122233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended using Guid(06fe4632bd09e57468b68c174e122233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4433b9e7b1f7606d4c601e2a6498ea') in 0.003245 seconds
+  Import took 0.007177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.392502 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo
+  artifactKey: Guid(de9e928d9c90c1d43a73ded89b05d1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo using Guid(de9e928d9c90c1d43a73ded89b05d1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3c5401a78515f1032210b5f723563b') in 0.003249 seconds
+  Import took 0.006709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.964310 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity
+  artifactKey: Guid(67adac43bcf286444be612074ab04f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity using Guid(67adac43bcf286444be612074ab04f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728431845c097601d21f128131072069') in 0.015021 seconds
+  Import took 0.019000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.094975 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity
+  artifactKey: Guid(a5df9867bdacd604dbe1d73079151448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity using Guid(a5df9867bdacd604dbe1d73079151448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffae16c60c3abd20c707f6395f847afa') in 0.003029 seconds
+  Import took 0.005918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.979591 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures
+  artifactKey: Guid(622c850911a24ab4c87b6b1cbb58ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures using Guid(622c850911a24ab4c87b6b1cbb58ba1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0f331c7d8b4ee858bc2dfea04323e8') in 0.003444 seconds
+  Import took 0.007483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.583845 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Blue Sky.png
+  artifactKey: Guid(beb1457d375110e468b8d8e1f29fccea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Blue Sky.png using Guid(beb1457d375110e468b8d8e1f29fccea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8cda27d24e928d23be80adadc454af') in 0.577216 seconds
+  Import took 0.591183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000847 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Night Sky.exr
+  artifactKey: Guid(fa41734a337674542975482c8fe96ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures/Polyverse Skies - Night Sky.exr using Guid(fa41734a337674542975482c8fe96ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ed76af6161e1de9d1682dcd2a08ced') in 0.410811 seconds
+  Import took 0.444169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.024516 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core
+  artifactKey: Guid(18556335e32be764885bcf0a6824be6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core using Guid(18556335e32be764885bcf0a6824be6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7822c7d05cc79d65eaa96b7fae519faa') in 0.004918 seconds
+  Import took 0.009882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.538558 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials
+  artifactKey: Guid(f5f2b39f73ab79f42a2dd2ccadae1581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials using Guid(f5f2b39f73ab79f42a2dd2ccadae1581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57eec11608dab8af1b0cba5d91e535d5') in 0.013241 seconds
+  Import took 0.018562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.356468 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes
+  artifactKey: Guid(25d3f6e5ef9743646a02401c50311822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes using Guid(25d3f6e5ef9743646a02401c50311822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e0d2376101a988349fdbc265fc9d6b') in 0.004624 seconds
+  Import took 0.009596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.336438 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs
+  artifactKey: Guid(2dcb8d72d2d50bf4897662c7aa8cfa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs using Guid(2dcb8d72d2d50bf4897662c7aa8cfa01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a6f89632bb96d52c4d45fbb3b84e24') in 0.004763 seconds
+  Import took 0.010227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160959 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Settings
+  artifactKey: Guid(938d9248e9f0f574cb40a5bbca66dae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Settings using Guid(938d9248e9f0f574cb40a5bbca66dae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052c48394039f692d9818d0723105289') in 0.004665 seconds
+  Import took 0.009608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.553609 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat
+  artifactKey: Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat using Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308ede4cc8e811ef9f1fd01465eeda3c') in 0.155915 seconds
+  Import took 0.170921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat
+  artifactKey: Guid(cc421da483ed06c49933077a621bff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat using Guid(cc421da483ed06c49933077a621bff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721d121a6e1bf4545ba4fb7b7ee92aa4') in 0.260242 seconds
+  Import took 0.287813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat
+  artifactKey: Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat using Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308ede4cc8e811ef9f1fd01465eeda3c') in 0.174232 seconds
+  Import took 0.189487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat
+  artifactKey: Guid(cc421da483ed06c49933077a621bff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat using Guid(cc421da483ed06c49933077a621bff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721d121a6e1bf4545ba4fb7b7ee92aa4') in 0.305700 seconds
+  Import took 0.335186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.065503 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTreeVariation.mat
+  artifactKey: Guid(0f74119e82d3b3a4d9b2842dbaa2a6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTreeVariation.mat using Guid(0f74119e82d3b3a4d9b2842dbaa2a6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e5c6c1e53a2d4ddbbbd3562587e241') in 0.022654 seconds
+  Import took 0.030860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000837 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Terrain.mat
+  artifactKey: Guid(2557d3f1d341fdb4e9d53179c053ffd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Terrain.mat using Guid(2557d3f1d341fdb4e9d53179c053ffd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162ddc0dbce637e36cb68e1f6b52efcb') in 0.028355 seconds
+  Import took 0.034779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000839 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Rock.mat
+  artifactKey: Guid(37524ae4594222f4f8acd7b76234f79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Rock.mat using Guid(37524ae4594222f4f8acd7b76234f79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0680af78a2c162200c5dde2cf60054ab') in 0.019778 seconds
+  Import took 0.025791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000722 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat
+  artifactKey: Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat using Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d809938c575062852708fb13fb12ad7') in 0.021007 seconds
+  Import took 0.026721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Grass.mat
+  artifactKey: Guid(6fc6652ed834922468cdd63bb95f7fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Grass.mat using Guid(6fc6652ed834922468cdd63bb95f7fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '478e47daf8918f16e0a6f005d1f187f0') in 0.022317 seconds
+  Import took 0.027847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000787 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat
+  artifactKey: Guid(ff059fc016fcf8d4a88162b27e334cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat using Guid(ff059fc016fcf8d4a88162b27e334cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8685cd041ce22e6dbaaf46e5c12915ec') in 0.019335 seconds
+  Import took 0.024758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000779 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat
+  artifactKey: Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat using Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d809938c575062852708fb13fb12ad7') in 0.019881 seconds
+  Import took 0.025643 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000978 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1164 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 3.926800 ms (FindLiveObjects: 0.362200 ms CreateObjectMapping: 0.076800 ms MarkObjects: 3.321100 ms  DeleteObjects: 0.164100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 2.639400 ms (FindLiveObjects: 0.311700 ms CreateObjectMapping: 0.089500 ms MarkObjects: 2.145500 ms  DeleteObjects: 0.090600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 712.351534 seconds.
+  path: Assets/BOXOPHOBIC/User
+  artifactKey: Guid(f0aa5379d96b0e14795df45a380643fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/User using Guid(f0aa5379d96b0e14795df45a380643fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbf965c5b98d160918f15e6e63cc9ac') in 0.007057 seconds
+  Import took 0.010618 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.0 MB.
+System memory in use after: 64.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 3.241700 ms (FindLiveObjects: 0.366800 ms CreateObjectMapping: 0.080000 ms MarkObjects: 2.658700 ms  DeleteObjects: 0.133700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.435558 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowCategory.cs
+  artifactKey: Guid(aac99d6d81f90e54cabd822770c11875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowCategory.cs using Guid(aac99d6d81f90e54cabd822770c11875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2f39dd2f4f9824a7637f5339ca1dbb') in 0.010680 seconds
+  Import took 0.016112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006858 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledBannerDrawer.cs
+  artifactKey: Guid(a832b9f47ccef214e81c89efe6bf31dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledBannerDrawer.cs using Guid(a832b9f47ccef214e81c89efe6bf31dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4915922ea5b5d34b5de73c59e8002d4') in 0.004615 seconds
+  Import took 0.009739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011785 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence A.FBX
+  artifactKey: Guid(719d923d0fff4604dad00bd968b563b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence A.FBX using Guid(719d923d0fff4604dad00bd968b563b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077abf3a5111ab4fc0b21eeaabf77da2') in 0.142735 seconds
+  Import took 0.146994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014420 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/SaveSettingsData.cs
+  artifactKey: Guid(7afe5a6ac49829c408df7e64761e822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/SaveSettingsData.cs using Guid(7afe5a6ac49829c408df7e64761e822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793ff8848e1ea5134878195a244d8818') in 0.003337 seconds
+  Import took 0.006761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029496 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset
+  artifactKey: Guid(693b7d13a80c93a4e8b791a9cd5e5ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset using Guid(693b7d13a80c93a4e8b791a9cd5e5ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf162ce7731472c025a4f117953f61e') in 0.006190 seconds
+  Import took 0.010589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006914 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledButton.cs
+  artifactKey: Guid(7c167590d9d480e438111f555c3a9d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledButton.cs using Guid(7c167590d9d480e438111f555c3a9d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15eef7708eeca75c423cfb380f1e7cba') in 0.005019 seconds
+  Import took 0.009939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007068 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMessageDrawer.cs
+  artifactKey: Guid(d01ce91280120de49b931b40f9e16f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMessageDrawer.cs using Guid(d01ce91280120de49b931b40f9e16f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6bb7f92af3b3cc281e7a6b4db6bab19') in 0.004795 seconds
+  Import took 0.009664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006965 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledCategoryDrawer.cs
+  artifactKey: Guid(1b5715cd99e4a2e4c91d69653d31dad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledCategoryDrawer.cs using Guid(1b5715cd99e4a2e4c91d69653d31dad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d2f4b6699685f7f6a05cd73561f243') in 0.004582 seconds
+  Import took 0.009471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007239 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextDrawer.cs
+  artifactKey: Guid(e137daebc2f7e0c4aa0ee5c5b140e8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextDrawer.cs using Guid(e137daebc2f7e0c4aa0ee5c5b140e8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12c9967b3a38fcca8f17982482223b5') in 0.004760 seconds
+  Import took 0.009720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007505 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledText.cs
+  artifactKey: Guid(df9ee7b5ab129dd4991f424a8d93430b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledText.cs using Guid(df9ee7b5ab129dd4991f424a8d93430b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b221ff44a52edb4c2ab45e510c1f6e') in 0.004778 seconds
+  Import took 0.009744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007215 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree A.prefab
+  artifactKey: Guid(6b444276162548b4e9107350b71e775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree A.prefab using Guid(6b444276162548b4e9107350b71e775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de19d3261dc75c2f4669d5b862cc1ee7') in 0.024013 seconds
+  Import took 0.029324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011893 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor
+  artifactKey: Guid(ddf355b9eb6a03a4dbd8990fd7311be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor using Guid(ddf355b9eb6a03a4dbd8990fd7311be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c2153b4d5a0efb478670d43b9a6a29') in 0.004930 seconds
+  Import took 0.009916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021625 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledMessageDrawer.cs
+  artifactKey: Guid(2734a300c1fbfb8499fe8a71e9b109e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledMessageDrawer.cs using Guid(2734a300c1fbfb8499fe8a71e9b109e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886015e21b83ffc453c939a6e3c8e804') in 0.004483 seconds
+  Import took 0.009445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006736 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledScriptableObjectEditor.cs
+  artifactKey: Guid(7a0e1a0aaab33f341b20d7d940fe0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledScriptableObjectEditor.cs using Guid(7a0e1a0aaab33f341b20d7d940fe0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60fa6d63835055b38f6970d72ba0d1bb') in 0.004766 seconds
+  Import took 0.009569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007982 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat
+  artifactKey: Guid(138b35dd321622a4d93635b532ae8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat using Guid(138b35dd321622a4d93635b532ae8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6d6a0a77bdda103242996f7492a2b1') in 0.042245 seconds
+  Import took 0.047749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013647 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef
+  artifactKey: Guid(29bc400970c5066438cbde7676418b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef using Guid(29bc400970c5066438cbde7676418b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c01e2ecab56df195362285d6e0075f') in 0.007724 seconds
+  Import took 0.012741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007457 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs
+  artifactKey: Guid(0fb089d68a8e4634390e299256c8eec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs using Guid(0fb089d68a8e4634390e299256c8eec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b510014c5ca332716a85bdbc00019984') in 0.004710 seconds
+  Import took 0.009945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007234 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs
+  artifactKey: Guid(b33fc29a1077eff40880c4d54b57136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledTexturePreview.cs using Guid(b33fc29a1077eff40880c4d54b57136c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a577f56df54c8f7a55e1c8e5f4b86ab') in 0.004713 seconds
+  Import took 0.009615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011037 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX
+  artifactKey: Guid(6c41d268699e27248a4354335b2a76ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX using Guid(6c41d268699e27248a4354335b2a76ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5323c3c10c6c42e22ca13297936b3b') in 0.026521 seconds
+  Import took 0.031738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013725 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledMonoBehaviour.cs
+  artifactKey: Guid(0003a5bea05764747b05fa096a075848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledMonoBehaviour.cs using Guid(0003a5bea05764747b05fa096a075848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd24f10b59071d5adb57876d3fe2f235') in 0.004807 seconds
+  Import took 0.009844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006926 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs
+  artifactKey: Guid(ab1d3117b9da8d7429e5ac70bd016772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs using Guid(ab1d3117b9da8d7429e5ac70bd016772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06514f981d81dbb3abba8278b006a416') in 0.004871 seconds
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007201 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTexturePreviewDrawer.cs
+  artifactKey: Guid(c8daad1bc4051084ca6204e12dc0890d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTexturePreviewDrawer.cs using Guid(c8daad1bc4051084ca6204e12dc0890d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a376ed66175e11676b93e22d92f87b2') in 0.004817 seconds
+  Import took 0.009803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007690 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab
+  artifactKey: Guid(9b6eba5dea9e77a4abd8f45df1ffffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab using Guid(9b6eba5dea9e77a4abd8f45df1ffffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d70fb7ee9a95c584a51db589f0a796') in 0.018548 seconds
+  Import took 0.023944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014618 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree B.FBX
+  artifactKey: Guid(769d335a9d1fc3948bfb71adea34202c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree B.FBX using Guid(769d335a9d1fc3948bfb71adea34202c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230c3f9dfce6e4fa2c15c2c3c17e97ef') in 0.029689 seconds
+  Import took 0.034899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014305 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorCategory.cs
+  artifactKey: Guid(87b94a9c1333f074e8c24cd5a2fe1d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorCategory.cs using Guid(87b94a9c1333f074e8c24cd5a2fe1d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a80be0b90cb1b3e28d132965b2df30') in 0.004872 seconds
+  Import took 0.010382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015026 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledBannerDrawer.cs
+  artifactKey: Guid(864d8c89c5d2ef240b0c51f15c5211e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledBannerDrawer.cs using Guid(864d8c89c5d2ef240b0c51f15c5211e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99eb187d6dd60c9dfaf77892d8877924') in 0.005295 seconds
+  Import took 0.010438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006824 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledPopupLayers.cs
+  artifactKey: Guid(0859d05e88a639846b09d3b97fe33c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledPopupLayers.cs using Guid(0859d05e88a639846b09d3b97fe33c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfed54f567351e131da4f68f03bf742') in 0.004630 seconds
+  Import took 0.009724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016969 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree A.FBX
+  artifactKey: Guid(7f9b57a02a16e55429c68854f45a8801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - FirTree A.FBX using Guid(7f9b57a02a16e55429c68854f45a8801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b3890b63e1c254f73dbd87f75ffa8c') in 0.026297 seconds
+  Import took 0.031551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014502 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledCategory.cs
+  artifactKey: Guid(6dfd994aa3f6b3944a0bd6effc2b3102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledCategory.cs using Guid(6dfd994aa3f6b3944a0bd6effc2b3102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e84674e8571b9e4da0e314ff6710be') in 0.005155 seconds
+  Import took 0.010200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007091 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureDrawer.cs
+  artifactKey: Guid(ab83955dedb2aed428447d90cf62c81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureDrawer.cs using Guid(ab83955dedb2aed428447d90cf62c81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c93c8a60d0723aa34a8089bb56a1e8') in 0.005116 seconds
+  Import took 0.010134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017523 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedWindows.cs
+  artifactKey: Guid(7c986bd7ffe2fa34a857eb813db03d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedWindows.cs using Guid(7c986bd7ffe2fa34a857eb813db03d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0011e64c67eeac392d1e12ca31cc6a93') in 0.004942 seconds
+  Import took 0.009884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010968 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Settings/Demo.asset
+  artifactKey: Guid(2c9ebc5b5de64494eb66e1f3eb755731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Settings/Demo.asset using Guid(2c9ebc5b5de64494eb66e1f3eb755731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af86d4dc27bb6b20acc4ba6a93e4d1b1') in 0.006829 seconds
+  Import took 0.011883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007232 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorBanner.cs
+  artifactKey: Guid(1525d4228f26951498e86e425363f3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorBanner.cs using Guid(1525d4228f26951498e86e425363f3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd9330cea9cea8509e6cab16b2c4978') in 0.004934 seconds
+  Import took 0.010011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007471 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX
+  artifactKey: Guid(0860e6fc68e57ae48b5ae6e854f8f6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX using Guid(0860e6fc68e57ae48b5ae6e854f8f6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec8dbede5833d9dcf8030b306c1f9c9') in 0.026035 seconds
+  Import took 0.031181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021829 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledButtonDrawer.cs
+  artifactKey: Guid(b1d35dbbb9b6c214aa892d7b240de3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledButtonDrawer.cs using Guid(b1d35dbbb9b6c214aa892d7b240de3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b743a2cf4168a7f80fe89532aa9b5c') in 0.004826 seconds
+  Import took 0.009788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005417 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders
+  artifactKey: Guid(e3f53477d64695f4abc989d59212b280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders using Guid(e3f53477d64695f4abc989d59212b280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7164b32989c9436d526cc01959c7c231') in 0.004411 seconds
+  Import took 0.009363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007107 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledPopupArrayDrawer.cs
+  artifactKey: Guid(bf9745e7c3c176c4395dbd644b463703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledPopupArrayDrawer.cs using Guid(bf9745e7c3c176c4395dbd644b463703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7360c249f45dedc2b70a2bfec376f4') in 0.004785 seconds
+  Import took 0.009735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007798 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowBanner.cs
+  artifactKey: Guid(dd0ddca94871d9a4586a143a83184806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowBanner.cs using Guid(dd0ddca94871d9a4586a143a83184806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11e1e531e240b756172160ed731156e') in 0.005034 seconds
+  Import took 0.009988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007111 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledOptionsSliderDrawer.cs
+  artifactKey: Guid(d4bc1ff93a8a28e42954d7469249a7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledOptionsSliderDrawer.cs using Guid(d4bc1ff93a8a28e42954d7469249a7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8767039031163d0b2b72cb27cf3f59b1') in 0.005083 seconds
+  Import took 0.010066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007461 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledMonoBehaviourEditor.cs
+  artifactKey: Guid(29c1ac24df072a744a4bdc6a209772bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMono/StyledMonoBehaviourEditor.cs using Guid(29c1ac24df072a744a4bdc6a209772bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c56e33b373b6bf5fd50ec2d929d92fe') in 0.004869 seconds
+  Import took 0.009840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011056 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock A.FBX
+  artifactKey: Guid(26fb55e8ae34728499f6f45cd0527c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock A.FBX using Guid(26fb55e8ae34728499f6f45cd0527c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e733001bdda232770e7a9b4cc3d90329') in 0.026684 seconds
+  Import took 0.031873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014928 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedShaderGUI.cs
+  artifactKey: Guid(39b7f3695c062924983675fcef51f7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedShaderGUI.cs using Guid(39b7f3695c062924983675fcef51f7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a344b5befc5d9f7890ad015076d92a5e') in 0.004858 seconds
+  Import took 0.009885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013213 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/Constants/Constants.cs
+  artifactKey: Guid(e0cf8ff3bbc97374f88272f686fb80e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/Constants/Constants.cs using Guid(e0cf8ff3bbc97374f88272f686fb80e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af10333cb3ffaec8ca7b88f7de617f80') in 0.004923 seconds
+  Import took 0.009967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006995 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledSpaceDrawer.cs
+  artifactKey: Guid(1f2f57e67392e5b41af1a4cecc3a6c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledSpaceDrawer.cs using Guid(1f2f57e67392e5b41af1a4cecc3a6c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48453232b740d66d2a9a33dae00ad003') in 0.005163 seconds
+  Import took 0.010082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007640 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX
+  artifactKey: Guid(f3dd2dace832efa4fa391170674edcc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX using Guid(f3dd2dace832efa4fa391170674edcc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f09acb64020a3cfe4b495a530b931b') in 0.028048 seconds
+  Import took 0.033160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014139 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock B.prefab
+  artifactKey: Guid(b0622c7c0ff092b46a37f31c718c5eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock B.prefab using Guid(b0622c7c0ff092b46a37f31c718c5eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dbb7f8d9edde6a3145bfe5684dbc359') in 0.019141 seconds
+  Import took 0.033189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013810 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledInteractiveDrawer.cs
+  artifactKey: Guid(80229de18cd73624b8181a9db49a304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledInteractiveDrawer.cs using Guid(80229de18cd73624b8181a9db49a304f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4072cb03bb2c332355467ec4271b70') in 0.007034 seconds
+  Import took 0.012829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007742 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledIndent.cs
+  artifactKey: Guid(fd0e43229939f8b45bd79345e699dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledIndent.cs using Guid(fd0e43229939f8b45bd79345e699dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00faad40186adcfea360672952c23c30') in 0.005209 seconds
+  Import took 0.010141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008026 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledIndentDrawer.cs
+  artifactKey: Guid(ea3f7407f69f900468d4b60de570e49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledIndentDrawer.cs using Guid(ea3f7407f69f900468d4b60de570e49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3cea553bdea2dbf9cd6e0f07d8f7fe') in 0.005568 seconds
+  Import took 0.010574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008020 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledIndentDrawer.cs
+  artifactKey: Guid(ae4fb3d8081065c47860724ea515c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledIndentDrawer.cs using Guid(ae4fb3d8081065c47860724ea515c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9bdce7a19038b1a03c6e251204f78c3') in 0.005085 seconds
+  Import took 0.010083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007860 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledButtonDrawer.cs
+  artifactKey: Guid(b40d7a397aa055b46a1651ee9f9bdd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledButtonDrawer.cs using Guid(b40d7a397aa055b46a1651ee9f9bdd03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb0a874d7cac608c7e61b0b57bc8e65') in 0.005370 seconds
+  Import took 0.010581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028577 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab
+  artifactKey: Guid(b4974e3ae06d3d245a8353b888faed9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab using Guid(b4974e3ae06d3d245a8353b888faed9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d34ba4b571513a1eef5743fc60defd1') in 0.019734 seconds
+  Import took 0.025289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014656 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledCategoryDrawer.cs
+  artifactKey: Guid(fb59d41716ab6114cb7cf03a5695083b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledCategoryDrawer.cs using Guid(fb59d41716ab6114cb7cf03a5695083b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1994d3ea129a378bd8c9dd457c35d82a') in 0.003602 seconds
+  Import took 0.007085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007510 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledInteractiveDrawer.cs
+  artifactKey: Guid(7cc33d297d20daa40a9b09fbb8e59502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledInteractiveDrawer.cs using Guid(7cc33d297d20daa40a9b09fbb8e59502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d17adc153eed5974b47aa2cce84e5c') in 0.005089 seconds
+  Import took 0.010059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008084 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledDiffusionMaterialDrawer.cs
+  artifactKey: Guid(f13faeb510c3cb54ba5d051ecaad26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledDiffusionMaterialDrawer.cs using Guid(f13faeb510c3cb54ba5d051ecaad26e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b8f668623fa2379a2a96e524d1612ee') in 0.005686 seconds
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007906 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset
+  artifactKey: Guid(cb530898cc05d744da0941d6160f7b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset using Guid(cb530898cc05d744da0941d6160f7b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09704a5876121c9a258a7ada53843a80') in 0.007829 seconds
+  Import took 0.013143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008214 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock A.prefab
+  artifactKey: Guid(39de80c7e7a1a2942820576875608e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Rock A.prefab using Guid(39de80c7e7a1a2942820576875608e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38eb1b403098ed4c525e8ba52f13989f') in 0.020255 seconds
+  Import took 0.025918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015123 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass A.FBX
+  artifactKey: Guid(8af3079b5c79b6b4c825cc71e71ef97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass A.FBX using Guid(8af3079b5c79b6b4c825cc71e71ef97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9455d3c35e387a3462c7c360033484') in 0.027826 seconds
+  Import took 0.033131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014928 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedHub.cs
+  artifactKey: Guid(749c07eaa2f91bc4f81ccd7adddcb723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/SkyboxExtendedHub.cs using Guid(749c07eaa2f91bc4f81ccd7adddcb723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862e3c13b1f335dec9e5cb8f3d1f3d89') in 0.005838 seconds
+  Import took 0.011238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007730 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab
+  artifactKey: Guid(d2cd02263a1e8084abf81f1324b929be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab using Guid(d2cd02263a1e8084abf81f1324b929be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b49c0754ecf74f0355fe0b476b24d2d') in 0.021053 seconds
+  Import took 0.026564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017747 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf
+  artifactKey: Guid(5cbce0d58b9d6d147bde7b2601194b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf using Guid(5cbce0d58b9d6d147bde7b2601194b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa952296f753f2c07588c178e49587c') in 0.006036 seconds
+  Import took 0.011338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007426 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledToggleDrawer.cs
+  artifactKey: Guid(d5699c954b5c9184199293b4ede31d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledToggleDrawer.cs using Guid(d5699c954b5c9184199293b4ede31d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6815bb862a9d63fb5debf8997aa7cf8') in 0.005220 seconds
+  Import took 0.010230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015790 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledInteractive.cs
+  artifactKey: Guid(388415cfa9bb69041a8281bc567acec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledInteractive.cs using Guid(388415cfa9bb69041a8281bc567acec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94920c51f5b7e8029a33da845edf2c99') in 0.005509 seconds
+  Import took 0.010563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007507 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs
+  artifactKey: Guid(896f8a6be3053ff4a8f322a960986af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledRangeOptions.cs using Guid(896f8a6be3053ff4a8f322a960986af1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe6c80ac9fcef5f3676be7066a95c2b') in 0.005945 seconds
+  Import took 0.011564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007645 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/LoadSettingsData.cs
+  artifactKey: Guid(90057ce590a8bd148ab59e018f35d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/SettingsUtils/LoadSettingsData.cs using Guid(90057ce590a8bd148ab59e018f35d9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b3383e6b3e12dc20036fb3d6cf3c85') in 0.005538 seconds
+  Import took 0.010241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004705 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader
+  artifactKey: Guid(82881a2d011b0964696411c822cdd00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Extended.shader using Guid(82881a2d011b0964696411c822cdd00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7c37100e009b80e3d26ef3ada31cf5') in 0.004784 seconds
+  Import took 0.009141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006477 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledSpaceDrawer.cs
+  artifactKey: Guid(db0457065a494f34aa3b619f240d8bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledSpaceDrawer.cs using Guid(db0457065a494f34aa3b619f240d8bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad4d9bf2ad9c1cc0f33b6c985e8dc26') in 0.004043 seconds
+  Import took 0.008570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006420 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledPopupArray.cs
+  artifactKey: Guid(0b32866cb35dd534c8ed7dda217b547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledPopupArray.cs using Guid(0b32866cb35dd534c8ed7dda217b547e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '724c7a6b2027a0f1a355dee4039fd532') in 0.004638 seconds
+  Import took 0.008998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011950 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledPopupLayersDrawer.cs
+  artifactKey: Guid(b351b243374f2d948a9e9943abe174bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledPopupLayersDrawer.cs using Guid(b351b243374f2d948a9e9943abe174bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5194d0f15cce3be9a76fe4062cc7aa') in 0.004549 seconds
+  Import took 0.008885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006732 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledRangeOptionsDrawer.cs
+  artifactKey: Guid(a5681c6e5862ae545ba9b00a5b813250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledRangeOptionsDrawer.cs using Guid(a5681c6e5862ae545ba9b00a5b813250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb22f8800e392a4be4618af0c4e263c1') in 0.004580 seconds
+  Import took 0.009035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012795 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs
+  artifactKey: Guid(e11186e2ccd8bf44d9d8699902268c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledSpace.cs using Guid(e11186e2ccd8bf44d9d8699902268c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcde7cf9f009af356ec34be87bf1eb2') in 0.004569 seconds
+  Import took 0.009053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006674 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledRemapSliderDrawer.cs
+  artifactKey: Guid(364f1df7c922ba84fa6fc52fd3900332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledRemapSliderDrawer.cs using Guid(364f1df7c922ba84fa6fc52fd3900332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b4defed30fd300bc09b0f70366d45a') in 0.004431 seconds
+  Import took 0.008882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005071 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions
+  artifactKey: Guid(7f2ce50d7f6bdaa4c9b0717b74137465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions using Guid(7f2ce50d7f6bdaa4c9b0717b74137465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a26f7febf67b5531312303d44cb3581') in 0.004775 seconds
+  Import took 0.009092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009938 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/SettingsUtils/SettingsData.cs
+  artifactKey: Guid(93308045fbb3c5e42ba5ccb66d848632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/SettingsUtils/SettingsData.cs using Guid(93308045fbb3c5e42ba5ccb66d848632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4b947a5d3638dbee292f4f61433207') in 0.004774 seconds
+  Import took 0.009116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019866 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock B.FBX
+  artifactKey: Guid(3ecc1e70424b33546b2dc73bb30a5163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Rock B.FBX using Guid(3ecc1e70424b33546b2dc73bb30a5163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ce457945e447d2eb75daf7de76c4a4') in 0.022065 seconds
+  Import took 0.026540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025742 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass B.prefab
+  artifactKey: Guid(c23a5db78ca1a5b4f921e0109f33128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass B.prefab using Guid(c23a5db78ca1a5b4f921e0109f33128c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f443e313bf34606807ce052ae546d487') in 0.015693 seconds
+  Import took 0.020131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012186 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledScriptableObject.cs
+  artifactKey: Guid(528a63c4c58b58a4ca3927eec830c596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledScriptableObject.cs using Guid(528a63c4c58b58a4ca3927eec830c596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3aca64a63104a95e4b430c6e28936a') in 0.004200 seconds
+  Import took 0.008330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006973 seconds.
+  path: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab
+  artifactKey: Guid(dd3ee0c97aab8a7498c9292f3482f60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab using Guid(dd3ee0c97aab8a7498c9292f3482f60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd99d602ecb9bce9322d310ebecfdab2') in 0.010709 seconds
+  Import took 0.014801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012368 seconds.
+  path: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTextDrawer.cs
+  artifactKey: Guid(aeec2ac650d2d8f40aa3b9e0cb807db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTextDrawer.cs using Guid(aeec2ac650d2d8f40aa3b9e0cb807db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbaa0c1ab4591a1cc53dd5c0f899aacb') in 0.002363 seconds
+  Import took 0.005000 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1701.
+Total: 3.321900 ms (FindLiveObjects: 0.256700 ms CreateObjectMapping: 0.072300 ms MarkObjects: 2.882700 ms  DeleteObjects: 0.107700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
